@@ -8,4 +8,4 @@ My Contribution
   3. Lastly, I was instructed to edit the function processInput, which was in the file ``engine.cpp`` in order to make the user move forward and backward by pressing the g and s keys on their computer.
 
 Languages Used
-  - This project uses a combination of C++ and OpenGL to generate the 3D cube.
+  - This project uses a combination of C++, C, and OpenGL to generate the 3D cube.
